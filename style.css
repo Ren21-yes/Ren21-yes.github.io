@@ -1,0 +1,38 @@
+body {
+	margin: 0px;
+	background-color: #7fffd4;
+}
+
+h1 {
+	color: #b0e0e6;
+}
+
+.main {
+	background-color: #4682b4;
+	width: 350px;
+	height: 200px
+}
+
+.button_a {
+	border: 0;
+	width: 300px;
+	height: 50px;
+	background-color: #afeeee;
+	color: #1e90ff;
+}
+
+table {
+	background-color: #4682b4;
+}
+
+.button_b {
+	background-color: #afeeee;
+	color: #1e90ff;
+	width: 240px;
+}
+
+.button_c {
+	background-color: #afeeee;
+	color: #1e90ff;
+	width: 252px;
+}
